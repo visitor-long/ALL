@@ -1,0 +1,8 @@
+../Core/Src/usart.c:33:6:MX_USART1_UART_Init	8	static
+../Core/Src/usart.c:61:6:HAL_UART_MspInit	32	static
+../Core/Src/usart.c:97:6:HAL_UART_MspDeInit	8	static
+../Core/Src/usart.c:123:9:crc8_chk_value	0	static
+../Core/Src/usart.c:139:1:__io_putchar	16	static
+../Core/Src/usart.c:150:6:HAL_UART_RxCpltCallback	8	static
+../Core/Src/usart.c:198:6:SwitchPCA9548A	8	static
+../Core/Src/usart.c:224:6:ProtocolAnalysis	72	static
